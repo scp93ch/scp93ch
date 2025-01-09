@@ -4,7 +4,7 @@ I have a few jobs, one of which involves software.
 
 ### Morse Code World
 
-I am self-employed, developing [Morse code software and training tools](https://morsecode.world). My underlying software library for translating, creating, and decoding Morse code is actually available [on a different site](https://gitlab.com/scphillips/morse-pro).
+I am a director of Morse Code World Ltd, developing [Morse code software and training tools](https://morsecode.world). My underlying software library for translating, creating, and decoding Morse code is actually available [on a different site](https://gitlab.com/scphillips/morse-pro).
 
 ### Previously: University of Southampton / Spyderisk
 
